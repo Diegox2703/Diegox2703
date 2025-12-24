@@ -5,7 +5,7 @@ Front-end Developer con experiencia en construccion de interfaces web modernas y
 
 Experiencia complementaria en Node.js y Express para desarrollo full-stack. Apasionado por crear experiencias de usuario intuitivas, código limpio y aprendizaje continuo de nuevas tecnologías.
 
-## Tecnologias
+# Tecnologias
 <img width="100" height="100" alt="logo" src="https://github.com/user-attachments/assets/458ea854-17cd-40d5-950a-3aee0a2179cd" />
 <img width="100" height="100" alt="logo" src="https://github.com/user-attachments/assets/49f8bce0-0515-4d3c-8dad-efaa387b38b2" />
 <img width="100" height="100" alt="Diseño sin título (3)" src="https://github.com/user-attachments/assets/e5cf20f0-ab0f-4563-b40e-8d83b6b70b63" />
